@@ -1,0 +1,39 @@
+:root{
+    font-size: calc(0.5vw + 7px);
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+
+}
+body{
+    background-color: #ebebeb;
+}
+#header{
+    background-color: #0075d1;
+    box-shadow: .0em .1em .2em black;
+}
+.icon{
+    background-image: url("../img/800px-UNESCO_logo.svg.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    color: transparent;
+}
+.navElement:hover{
+    background-color: #0064bd;
+}
+.mainContainer{
+    box-shadow: .1em .1em .2em black;
+}
+.contentBlock{
+    background-color: #95add2;
+}
+.additionalInf{
+    background-color: #5676c3;
+}
+.footerLineSegment{
+    background-color: #0075d1;
+}
+.footerBody{
+    background-color: #0064bd;
+}
+@media (min-width: 992px) {
+}
