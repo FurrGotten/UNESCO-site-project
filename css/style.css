@@ -35,5 +35,8 @@ body{
 .footerBody{
     background-color: #0064bd;
 }
+.descriptionInputBox{
+    height: 10em;
+}
 @media (min-width: 992px) {
 }
